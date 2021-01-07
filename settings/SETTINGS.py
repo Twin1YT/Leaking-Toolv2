@@ -27,10 +27,10 @@ intervall = 30 # Under 20 Seconds is not allowed.
 Enter here you Twitter Tokens from https://developer.twitter.com/en/apps
 """
 TWITTER_TOKEN = {
-    "consumer_key": "OKWZZgyIa0R9xsIZASRwvJftG",
-    "consumer_secret": "c2bIjWG4ScliL93OwUTyHo99VK8IpXBVcuMLurZCmDWb6BRKBJ",
-    "access_token_key": "1268253193777172482-QlnHBM7ye9SMnMcsAHbgZqONZtlzCG",
-    "access_token_secret": "jI8HS7oIU1naIoJTwsbzKQtLYhBGi0tsoeVHGA71k3ZhI",
+    "consumer_key": "fuckoff",
+    "consumer_secret": "stfu",
+    "access_token_key": "no",
+    "access_token_secret": "TryMeBitch",
 }
 
 nopost = False  # A FUNCTION FOR TESTING! Leave it on False or the Bot dont work!!!!
