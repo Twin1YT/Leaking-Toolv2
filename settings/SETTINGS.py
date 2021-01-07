@@ -27,10 +27,10 @@ intervall = 30 # Under 20 Seconds is not allowed.
 Enter here you Twitter Tokens from https://developer.twitter.com/en/apps
 """
 TWITTER_TOKEN = {
-    "consumer_key": "",
-    "consumer_secret": "",
-    "access_token_key": "",
-    "access_token_secret": "",
+    "consumer_key": "consum",
+    "consumer_secret": "consuer",
+    "access_token_key": "consumer",
+    "access_token_secret": "consume",
 }
 
 nopost = False # A FUNCTION FOR TESTING! Leave it on False or the Bot dont work!!!!
